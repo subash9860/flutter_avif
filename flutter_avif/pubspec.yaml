@@ -35,9 +35,3 @@ flutter:
         default_package: flutter_avif_ios
       macos:
         default_package: flutter_avif_macos
-      linux:
-        default_package: flutter_avif_linux
-      windows:
-        default_package: flutter_avif_windows
-      web:
-        default_package: flutter_avif_web
